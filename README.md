@@ -47,4 +47,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Andreisc0912&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Andreisc0912&theme=chartreuse-dark&hide_border=false)<br />
-![](https://github-readme-stats.vercel.app/api/wakatime?username=andreisc912\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=andreisc0912\&layout=compact)
